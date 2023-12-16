@@ -1,0 +1,15 @@
+form{
+    display: flex;
+}
+
+label{
+    display: flex;
+}
+
+input{
+    display: flex;
+}
+
+input:first-child{
+    margin: 10px 10px;
+}

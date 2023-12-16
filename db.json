@@ -1,0 +1,46 @@
+{
+  "game": [
+    {
+      "id": 1,
+      "name": "The Elder Scrolls V: Skyrim",
+      "image": "https://www.einerd.com.br/wp-content/uploads/2017/04/skyrimintro1.2.jpg",
+      "description": "The Elder Scrolls V: Skyrim is an action role-playing video game developed by Bethesda Game Studios and published by Bethesda Softworks.",
+      "price": 29.99
+    },
+    {
+      "id": 2,
+      "name": "GTA V",
+      "image": "https://hyperpc.ru/images/support/articles/pc-for-gta-5/article-gta-5-banner.jpg",
+      "description": "Grand Theft Auto V is a 2013 action-adventure game developed by Rockstar North and published by Rockstar Games. It is the seventh main entry in the Grand Theft Auto series, following 2008's Grand Theft Auto IV, and the fifteenth instalment overall.",
+      "price": 39.99
+    },
+    {
+      "id": 3,
+      "name": "Fortnite",
+      "image": "https://cdn2.unrealengine.com/social-image-chapter4-s3-3840x2160-d35912cc25ad.jpg",
+      "description": "Fortnite Battle Royale is a free-to-play battle royale video game developed and published by Epic Games. It is a companion game to Fortnite: Save the World, a cooperative survival game with construction elements.",
+      "price": 0
+    },
+    {
+      "id": 4,
+      "name": "This War of Mine",
+      "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_ThisWarOfMineCompleteEdition_image1600w.jpg",
+      "description": "This War of Mine is a war survival video game developed and published by the Polish game development company 11 Bit Studios. The game, inspired by the siege of Sarajevo among other conflicts, differs from most war-themed video games by focusing on the civilian experience of war rather than front line combat.",
+      "price": 3.99
+    },
+    {
+      "name": "Call of Duty: Modern Warfare III",
+      "image": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/blog/hero/mwiii/MWIII-REVEAL-FULL-TOUT.jpg",
+      "id": 5,
+      "description": "Call of Duty: Modern Warfare III is a 2023 first-person shooter video game developed by Sledgehammer Games and published by Activision. It is a sequel to 2022's Modern Warfare II, serving as the third entry in the rebooted Modern Warfare sub-series and the twentieth installment in the overall Call of Duty series.",
+      "price": 48.99
+    },
+    {
+      "name": "Mortal Kombat 1",
+      "image": "https://insider-gaming.com/wp-content/uploads/2023/08/mortal-kombat-1.jpg",
+      "id": 6,
+      "description": "Mortal Kombat 1 is a 2023 fighting game developed by NetherRealm Studios and published by Warner Bros. Games. It is the twelfth main installment in the Mortal Kombat series, and serves as its second reboot after 2011's Mortal Kombat.",
+      "price": 69.99
+    }
+  ]
+}
